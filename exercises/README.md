@@ -1,6 +1,6 @@
 
 ## Exercise Starter Code
-The current folder conatins the following starter code for the classroom exercises:
+The current folder contains the following starter code for the classroom exercises:
 ```bash
 .
 ├── Vagrantfile        # Vagrant exercise
